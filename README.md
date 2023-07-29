@@ -50,3 +50,28 @@ Computing time on a Intel Core i7-9700K.
 | min/avg   |    7   |    6    | 4.67638 | 4.67738        |  150.0 |
 | minimum   |    8   |    6    | 4.99829 | 5.07143        | 8000.0 |
 | average   |    8   |    7    | 4.99780 | 5.07540        | 8000.0 |
+
+## File Format
+
+The strategies are stored in two formats
+
+### Punch Card
+
+| Column | Description                    |
+| ------ | ------------------------------ |
+| 1-3    | Line number                    |
+| 5      | Number of guess                |
+| 7-10   | Guess                          |
+| 12-... | For every codemaker's feddback |
+|        | `>123` next line number        |
+|        | `1234` code                    |
+
+### YML
+
+An array with 2 elements
+1. the guess
+2. a hash with
+    - key, the codemaker's feedback
+    - value, either
+        - the code
+        - the next guess in the same - recursive - format
