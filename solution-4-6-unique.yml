@@ -1,0 +1,614 @@
+---
+- 0123
+- OO--:
+    - 1245
+    - OO--:
+        - 3054
+        - OOOO:
+            - 4530
+            - XXOO: 5430
+              XXXX: 4530
+          XOOO:
+            - 4350
+            - XOOO: 5304
+              XXXX: 4350
+          XXOO:
+            - 3450
+            - OOOO: 5034
+              XOOO: 3504
+              XXXX: 3450
+          XXXX: 3054
+      OOO-:
+        - 2504
+        - OO--:
+            - 4351
+            - XOOO: 5431
+              XXOO: 3451
+              XXXX: 4351
+          OOO-:
+            - 4051
+            - OO--: 5432
+              OOOO: 5410
+              XO--: 3452
+              XX--: 4352
+              XXXX: 4051
+          OOOO: 4052
+          XO--:
+            - 4531
+            - OOOO: 5314
+              XXXX: 4531
+          XOO-:
+            - 4510
+            - OOOO: 5401
+              XOOO: 5014
+              XX--: 4532
+              XXXX: 4510
+          XOOO:
+            - 2450
+            - XOOO: 5402
+              XXXX: 2450
+          XX--: 3514
+          XXO-:
+            - 2354
+            - OO--: 4501
+              XXXX: 2354
+          XXOO:
+            - 2054
+            - OOOO: 4502
+              XXXX: 2054
+          XXX-: 2534
+          XXXX: 2504
+      OOOO:
+        - 0514
+        - OOO-: 2451
+          XOO-: 5412
+          XXO-: 4512
+          XXX-: 2514
+      XO--:
+        - 3405
+        - OOOO: 5340
+          XOOO:
+            - 3540
+            - OOOO: 4035
+              XXXX: 3540
+          XXOO: 4305
+          XXXX: 3405
+      XOO-:
+        - 3541
+        - OO--:
+            - 2405
+            - OOOO: 4250
+              XOOO: 5204
+              XXXX: 2405
+          OOO-:
+            - 1054
+            - OO--: 2435
+              XO--: 5234
+              XOOO: 4015
+              XXOO: 1450
+              XXXX: 1054
+          OOOO:
+            - 1354
+            - XOOO: 4315
+              XXXX: 1354
+          XO--: 5042
+          XOO-:
+            - 1504
+            - OO--: 5342
+              XO--: 3254
+              XXXX: 1504
+          XOOO:
+            - 1534
+            - OOOO: 3415
+              XXXX: 1534
+          XX--: 2540
+          XXO-: 5041
+          XXOO: 5341
+          XXX-: 3542
+          XXXX: 3541
+      XOOO:
+        - 1452
+        - OOOO:
+            - 2541
+            - OOOO: 5214
+              XXXX: 2541
+          XOOO:
+            - 2415
+            - OOOO: 4251
+              XXXX: 2415
+          XXXX: 1452
+      XX--: 3045
+      XXO-:
+        - 1405
+        - OOO-: 5240
+          XO--:
+            - 2345
+            - XOOO: 4235
+              XXXX: 2345
+          XOO-: 2045
+          XOOO: 1540
+          XXO-: 4205
+          XXX-: 1435
+          XXXX: 1405
+      XXOO:
+        - 1542
+        - OOOO: 4215
+          XOOO:
+            - 1254
+            - XOOO: 5241
+              XXXX: 1254
+          XXXX: 1542
+      XXX-:
+        - 1045
+        - XX--: 3245
+          XXX-: 1345
+          XXXX: 1045
+      XXXX: 1245
+  OOO-:
+    - 1234
+    - OO--:
+        - 2501
+        - OOO-:
+            - 3015
+            - XOOO: 5310
+              XXO-: 3052
+              XXXX: 3015
+          OOOO: 5012
+          XOO-:
+            - 3051
+            - OOO-: 5302
+              XOO-: 2350
+              XOOO: 3510
+              XXXX: 3051
+          XOOO: 2015
+          XXO-:
+            - 2305
+            - XOOO: 3502
+              XXO-: 5301
+              XXXX: 2305
+          XXOO:
+            - 2051
+            - XOOO: 2510
+              XXXX: 2051
+          XXX-: 3501
+          XXXX: 2501
+      OOO-:
+        - 3410
+        - OO--: 2351
+          OOO-:
+            - 2041
+            - OOO-: 4302
+              XXXX: 2041
+          OOOO: 4301
+          XO--:
+            - 2315
+            - XXOO: 5312
+              XXXX: 2315
+          XOO-:
+            - 2340
+            - OOO-: 4012
+              XOO-: 2401
+              XOOO: 3042
+              XXXX: 2340
+          XOOO: 3041
+          XX--: 3512
+          XXO-: 3402
+          XXOO:
+            - 3401
+            - OOOO: 4310
+              XXXX: 3401
+          XXX-: 2410
+          XXXX: 3410
+      OOOO:
+        - 2341
+        - OOOO: 3412
+          XOOO: 4312
+          XXXX: 2341
+      XO--:
+        - 5032
+        - OOO-:
+            - 1305
+            - XXOO: 1350
+              XXXX: 1305
+          OOOO:
+            - 3205
+            - XXOO: 3250
+              XXXX: 3205
+          XOO-:
+            - 1502
+            - OOOO: 5210
+              XOOO: 5201
+              XXXX: 1502
+          XOOO: 2530
+          XXO-: 1052
+          XXOO: 2035
+          XXX-: 5031
+          XXXX: 5032
+      XOO-:
+        - 4031
+        - OO--:
+            - 1352
+            - OOOO: 3215
+              XXXX: 1352
+          OOO-:
+            - 1402
+            - OOO-: 3240
+              XOO-: 2304
+              XXXX: 1402
+          OOOO: 1340
+          XO--: 3251
+          XOO-:
+            - 1042
+            - OOO-: 2430
+              OOOO: 4210
+              XOOO: 2014
+              XXXX: 1042
+          XOOO: 3014
+          XX--: 2531
+          XXO-: 4201
+          XXX-: 4032
+          XXXX: 4031
+      XOOO:
+        - 1342
+        - OOOO: 2431
+          XOOO:
+            - 2314
+            - OOOO: 3241
+              XXXX: 2314
+          XXXX: 1342
+      XX--:
+        - 1025
+        - OOO-: 5230
+          XOO-: 1530
+          XOOO: 1250
+          XXOO: 1205
+          XXX-: 1035
+      XXO-:
+        - 1304
+        - OO--: 5231
+          OOO-: 4230
+          XO--: 1532
+          XOO-:
+            - 1240
+            - OOO-: 2034
+              XXXX: 1240
+          XOOO: 1430
+          XXO-: 3204
+          XXXX: 1304
+      XXOO:
+        - 1432
+        - OOOO: 3214
+          XOOO: 4231
+          XXXX: 1432
+      XXX-:
+        - 1034
+        - XX--: 1235
+          XXO-: 1204
+          XXXX: 1034
+      XXXX: 1234
+  OOOO:
+    - 1230
+    - OOOO:
+        - 2301
+        - OOOO: 3012
+          XXXX: 2301
+      XOOO:
+        - 1302
+        - OOOO: 2031
+          XOOO:
+            - 2310
+            - OOOO: 3201
+              XXXX: 2310
+          XXXX: 1302
+      XXOO:
+        - 1032
+        - OOOO: 3210
+          XXXX: 1032
+      XXXX: 1230
+  XO--:
+    - 0245
+    - OO--:
+        - 1453
+        - OOOO: 5134
+          XOOO:
+            - 3154
+            - OOOO: 4513
+              XXXX: 3154
+          XXOO: 5413
+          XXXX: 1453
+      OOO-:
+        - 1524
+        - OO--:
+            - 4053
+            - XOOO: 5403
+              XXXX: 4053
+          OOO-:
+            - 2453
+            - XO--: 4150
+              XXXX: 2453
+          OOOO: 4152
+          XO--: 4503
+          XOO-: 5104
+          XOOO:
+            - 2154
+            - OOOO: 5421
+              XXXX: 2154
+          XXO-: 5324
+          XXOO: 4521
+          XXX-: 3524
+          XXXX: 1524
+      OOOO:
+        - 4520
+        - XOOO: 5024
+          XXOO: 5420
+          XXXX: 4520
+      XO--:
+        - 1543
+        - OOOO: 4135
+          XXXX: 1543
+      XOO-:
+        - 4325
+        - OO--:
+            - 0451
+            - OOOO: 5140
+              XOOO: 0514
+              XXXX: 0451
+          OOO-:
+            - 0534
+            - OO--: 5142
+              OOOO: 5043
+              XXXX: 0534
+          OOOO: 2543
+          XOO-: 0354
+          XOOO: 4253
+          XX--: 4105
+          XXO-: 1425
+          XXOO: 3425
+          XXXX: 4325
+      XOOO:
+        - 0452
+        - OOOO: 4025
+          XXXX: 0452
+      XX--: 3145
+      XXO-:
+        - 0415
+        - OO--: 5243
+          XOO-: 2145
+          XOOO: 0541
+          XXX-: 0435
+          XXXX: 0415
+      XXOO:
+        - 0254
+        - XOOO: 0542
+          XXXX: 0254
+      XXX-: 0345
+      XXXX: 0245
+  XOO-:
+    - 0134
+    - OO--:
+        - 1325
+        - OOO-:
+            - 2053
+            - XOOO: 5203
+              XXOO: 2503
+              XXXX: 2053
+          OOOO:
+            - 2513
+            - XXOO: 5213
+              XXXX: 2513
+          XOO-:
+            - 3520
+            - XOO-: 5021
+              XXXX: 3520
+          XOOO:
+            - 1253
+            - OOOO: 3521
+              XXXX: 1253
+          XXO-:
+            - 1520
+            - XOO-: 3025
+              XXO-: 5320
+              XXXX: 1520
+          XXOO: 5321
+          XXX-: 1025
+          XXXX: 1325
+      OOO-:
+        - 2413
+        - OOO-:
+            - 4021
+            - XXO-: 4320
+              XXXX: 4021
+          OOOO: 4321
+          XO--:
+            - 1053
+            - XXOO: 1503
+              XXXX: 1053
+          XOO-:
+            - 1420
+            - OOO-: 4203
+              XXX-: 3420
+              XXXX: 1420
+          XOOO:
+            - 1243
+            - OOOO: 3421
+              XXXX: 1243
+          XX--: 5013
+          XXO-: 2043
+          XXOO: 4213
+          XXX-: 2403
+          XXXX: 2413
+      OOOO:
+        - 1403
+        - XOOO: 4013
+          XXOO: 1043
+          XXXX: 1403
+      XO--:
+        - 0215
+        - OOO-: 3152
+          OOOO:
+            - 2150
+            - XOOO: 5102
+              XXXX: 2150
+          XOO-: 0352
+          XOOO: 2105
+          XXOO:
+            - 0251
+            - XOOO: 0512
+              XXXX: 0251
+          XXXX: 0215
+      XOO-:
+        - 0241
+        - OO--:
+            - 3105
+            - XXOO: 3150
+              XXXX: 3105
+          OOO-:
+            - 1324
+            - XXO-: 3024
+              XXXX: 1324
+          OOOO:
+            - 1024
+            - OOOO: 4102
+              XXXX: 1024
+          XO--: 0315
+          XOO-: 3142
+          XOOO:
+            - 0412
+            - OOOO: 2140
+              XXXX: 0412
+          XX--: 0351
+          XXO-: 0342
+          XXXX: 0241
+      XOOO:
+        - 0341
+        - XOOO: 3140
+          XXXX: 0341
+      XX--:
+        - 0235
+        - XOO-: 5132
+          XXO-: 2135
+          XXOO: 0532
+          XXXX: 0235
+      XXO-:
+        - 0214
+        - OO--: 5130
+          OOO-: 4132
+          XO--: 0531
+          XOO-: 0432
+          XOOO: 2104
+          XXXX: 0214
+      XXOO:
+        - 0314
+        - OOOO: 4130
+          XOOO:
+            - 0431
+            - OOOO: 3104
+              XXXX: 0431
+          XXXX: 0314
+      XXX-:
+        - 0234
+        - XXO-: 2134
+          XXXX: 0234
+  XOOO:
+    - 0134
+    - OOO-:
+        - 1203
+        - OOOO: 3021
+          XOOO:
+            - 1320
+            - OOOO: 2013
+              XXXX: 1320
+          XXXX: 1203
+      XOO-:
+        - 0312
+        - XOOO: 3102
+          XXXX: 0312
+      XXO-:
+        - 0231
+        - XOOO: 2130
+          XXXX: 0231
+  XX--:
+    - 0245
+    - OO--: 4153
+      OOO-:
+        - 4523
+        - XOO-: 5124
+          XXOO: 5423
+          XXXX: 4523
+      XO--: 5143
+      XOO-:
+        - 0154
+        - XOO-: 4125
+          XXO-: 0453
+          XXXX: 0154
+      XOOO: 0524
+      XXO-: 0543
+      XXOO: 0425
+      XXX-: 0145
+  XXO-:
+    - 0134
+    - OO--:
+        - 1523
+        - XXO-: 5023
+          XXXX: 1523
+      OOO-:
+        - 1423
+        - XXO-: 4023
+          XXXX: 1423
+      XO--:
+        - 0253
+        - OOO-:
+            - 3125
+            - XXO-: 5120
+              XXXX: 3125
+          XOO-: 0521
+          XOOO: 0325
+          XXO-: 2153
+          XXXX: 0253
+      XOO-:
+        - 0243
+        - OOO-: 4120
+          XO--: 5103
+          XOO-: 0421
+          XX--: 0513
+          XXO-: 2143
+          XXXX: 0243
+      XOOO:
+        - 0413
+        - XOOO: 4103
+          XXXX: 0413
+      XX--: 0152
+      XXO-:
+        - 0324
+        - XOO-: 0142
+          XXO-: 3124
+          XXXX: 0324
+      XXX-: 0135
+      XXXX: 0134
+  XXOO:
+    - 0132
+    - OOOO: 1023
+      XOOO:
+        - 0213
+        - OOOO: 3120
+          XOOO:
+            - 0321
+            - OOOO: 2103
+              XXXX: 0321
+          XXXX: 0213
+      XXXX: 0132
+  XXX-:
+    - 0134
+    - XO--:
+        - 0523
+        - XXO-: 5123
+          XXXX: 0523
+      XOO-:
+        - 0423
+        - XXO-: 4123
+          XXXX: 0423
+      XX--: 0125
+      XXO-: 0153
+      XXOO: 0143
+      XXX-: 0124
+  XXXX: 0123
